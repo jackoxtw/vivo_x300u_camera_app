@@ -1,0 +1,3 @@
+# 忽略 APK 與二進位壓縮檔案（大檔案透過 GitHub Release 發佈與下載）
+*.apk
+*.zip
